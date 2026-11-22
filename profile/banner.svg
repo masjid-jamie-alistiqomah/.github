@@ -1,0 +1,54 @@
+<svg width="850" height="220" viewBox="0 0 850 220" fill="none" xmlns="http://w3.org">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#062c1e" />
+      <stop offset="50%" stop-color="#0b4630" />
+      <stop offset="100%" stop-color="#052217" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d4af37" />
+      <stop offset="50%" stop-color="#fce28b" />
+      <stop offset="100%" stop-color="#d4af37" />
+    </linearGradient>
+    <pattern id="gridPattern" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Utama -->
+  <rect width="850" height="220" rx="16" fill="url(#bgGrad)" />
+  <rect width="850" height="220" rx="16" fill="url(#gridPattern)" />
+  
+  <!-- Bingkai Emas Dalam -->
+  <rect x="10" y="10" width="830" height="200" rx="12" stroke="url(#goldGrad)" stroke-width="1.5" stroke-opacity="0.6" />
+
+  <!-- Kubah / Aksen Geometris Kiri & Kanan -->
+  <circle cx="65" cy="110" r="24" stroke="#d4af37" stroke-width="1.2" stroke-opacity="0.25" />
+  <circle cx="65" cy="110" r="14" stroke="#d4af37" stroke-width="1.2" stroke-opacity="0.4" />
+  <circle cx="785" cy="110" r="24" stroke="#d4af37" stroke-width="1.2" stroke-opacity="0.25" />
+  <circle cx="785" cy="110" r="14" stroke="#d4af37" stroke-width="1.2" stroke-opacity="0.4" />
+
+  <!-- Label Atas: MASJID JAMIE -->
+  <rect x="295" y="34" width="260" height="26" rx="13" fill="#041c13" stroke="#d4af37" stroke-width="1" stroke-opacity="0.7" />
+  <text x="425" y="51" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#fce28b" text-anchor="middle" letter-spacing="4">
+    MASJID JAMIE
+  </text>
+
+  <!-- Judul Utama Besar: AL-ISTIQOMAH -->
+  <text x="425" y="118" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="5">
+    AL-ISTIQOMAH
+  </text>
+
+  <!-- Garis Pemisah Halus -->
+  <line x1="200" y1="142" x2="650" y2="142" stroke="url(#goldGrad)" stroke-width="1" stroke-opacity="0.4" />
+
+  <!-- Sub-judul Keterangan -->
+  <text x="425" y="168" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e2e8f0" text-anchor="middle" letter-spacing="2">
+    PORTAL TRANSPARANSI KEUANGAN &amp; ASET WAKAF
+  </text>
+
+  <!-- Lokasi Bawah -->
+  <text x="425" y="190" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#86efac" text-anchor="middle" letter-spacing="1.5">
+    DEWAN KEMAKMURAN MASJID (DKM) • RAJAPOLAH, TASIKMALAYA
+  </text>
+</svg>
