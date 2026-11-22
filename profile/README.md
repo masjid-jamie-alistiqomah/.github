@@ -1,16 +1,34 @@
 <div align="center">
 
-# 🕌 DEWAN KEMAKMURAN MASJID (DKM)
-## MASJID JAMIE AL-ISTIQOMAH
-**Kp. Karangiyuh, Jl. Cisurian–Cihateup, Desa Rajamandala, Kec. Rajapolah, Kab. Tasikmalaya, Jawa Barat**
+```text
+          +-------------------------------------------------------+
 
-[![Portal Keuangan](https://shields.io🌐_Buka_Portal_Transparansi-Kas_Masjid-0f5132?style=for-the-badge)](https://github.io)
-[![Status](https://shields.ioStatus-Aktif_&_Terbuka-198754?style=for-the-badge)](#)
-[![Audit](https://shields.ioData-Real--Time_&_Akuntabel-d97706?style=for-the-badge)](#)
+          |   M A S J I D   J A M I E   ( D K M   P U S A T )     |
+          +-------------------------------------------------------+
 
-*Wadah resmi keterbukaan informasi publik, tata kelola keuangan umat, dan inventarisasi aset wakaf berbasis digital.*
+ █████╗ ██╗      ██╗███████╗████████╗██╗ ██████╗  ██████╗ ███╗   ███╗ █████╗ ██╗  ██╗
+██╔══██╗██║      ██║██╔════╝╚══██╔══╝██║██╔═══██╗██╔═══██╗████╗ ████║██╔══██╗██║  ██║
+███████║██║█████╗██║███████╗   ██║   ██║██║   ██║██║   ██║██╔████╔██║███████║███████║
+██╔══██║██║╚════╝██║╚════██║   ██║   ██║██║▄▄ ██║██║   ██║██║╚██╔╝██║██╔══██║██╔══██║
+██║  ██║███████╗ ██║███████║   ██║   ██║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝  ╚═╝╚══════╝ ╚═╝╚══════╝   ╚═╝   ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+   — [ PORTAL TRANSPARANSI KEUANGAN & ASET WAKAF // RAJAPOLAH, TASIKMALAYA ] —
+```
+
+### 👉 **[ KLIK DI SINI UNTUK MEMBUKA WEBSITE LAPORAN KEUANGAN MASJID ]([https://github.io](https://masjid-jamie-alistiqomah.github.io/Kas-Masjid/))** 👈
 
 </div>
+
+```yaml
+> STATUS_PORTAL : AKTIF & TERBUKA UNTUK UMUM
+> LOKASI_MASJID : Kp. Karangiyuh, Jl. Cisurian–Cihateup, Desa Rajamandala, Kec. Rajapolah
+> KREDIBILITAS  : REAL-TIME AUDIT, ARSIP TERSTRUKTUR & JEJAK DATA PERMANEN
+```
+
+---
+
+### 🏛️ Ringkasan Amanah & Tata Kelola Digital
+Portal ini dikelola secara resmi oleh **Dewan Kemakmuran Masjid (DKM) Masjid Jamie Al-Istiqomah** sebagai wujud komitmen menjaga amanah umat. Seluruh arus kas, inventaris aset tanah wakaf, serta dana sosial kematian dicatat secara terpisah, akurat, dan dapat diaudit kapan saja oleh seluruh jamaah.
 
 ---
 
@@ -29,7 +47,25 @@ Seluruh pencatatan dana umat dikelola secara terpisah, terarsip per lembar perio
 ### 🏡 Ringkasan Aset Tanah Wakaf Terkelola
 Sebagai bentuk penjagaan amanah para *wakif* (pemberi wakaf), DKM mendokumentasikan aset tanah wakaf masjid dan madrasah yang tersebar di beberapa titik lokasi (Ciganea, Sawah Lega, Rorogan Tengah, Kebon Gede, dan Legok H. Mas'ud) dengan total luasan tercatat di sistem.
 
-> 👉 **[Lihat Rincian Lengkap Daftar Wakif & Laporan Keuangan](https://github.io)**
+Berikut adalah rekapitulasi data tanah wakaf yang dikelola dan tercatat secara resmi oleh DKM Masjid Jamie Al-Istiqomah:
+
+| No | Nama Wakif (Pemberi Wakaf) | Luas Tanah | Lokasi Aset |
+| :---: | :--- | :---: | :--- |
+| **1** | **Bp. Solihin** | 20 Bata | Ciganea |
+| **2** | **Bp. Encon / Ema Uka** | 10 Bata | Sawah Lega |
+| **3** | **Ibu Hj. Komariah / Hj. Toto** | 15 Bata | Rorogan Tengah |
+| **4** | **Bp. H. Umar + Ibu Hj. Komariah** | 10 Bata | Kebon Gede |
+| **5** | **Bp. H. Abas + Ibu Hj. Cioh** | 20 Bata | Legok H. Mas'ud |
+| **6** | **Bp. H. Abas + Ibu Hj. Cioh** | 15 Bata | Kebon Gede |
+| **7** | **Bp. Eman bin Jai** | 10 Bata | Kebon Gede |
+| **8** | **Bp. H. Sirad** | 20 Bata | Kaler Sisi Lembur |
+| **9** | **Ibu Empat** | 10 Bata | Legok Icakan |
+| **10** | **Mama H. Maosul** | 15 Bata | Legok Icakan |
+| **11** | **Bp. Winarja + Ibu Arnasih** | 20 Bata | Kebon Gede |
+| **12** | **Bp. H. Ili Romli RJP** | 20 Bata | Cisurian Astana Palih Kulon |
+| **13** | **Bp. Suherman + Ibu Nani** | 10 Bata | Blok Heler |
+
+> *Total keseluruhan tercatat **13 bidang tanah wakaf** dengan total luas **195 Bata** (dikecualikan kolom pengelola/pemegang dan rincian hasil panen untuk menjaga privasi dan fokus pada arsip aset).*
 
 ---
 
