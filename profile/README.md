@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://github.io">
+<a href="https://github.com/masjid-jamie-alistiqomah/.github/blob/main/profile/banner.svg">
   <img src="./banner.svg" alt="DKM Masjid Jamie Al-Istiqomah" width="100%" />
 </a>
 
 
-### 👉 **[ KLIK DI SINI UNTUK MEMBUKA WEBSITE LAPORAN KEUANGAN MASJID ]([https://github.io](https://masjid-jamie-alistiqomah.github.io/Kas-Masjid/))** 👈
+### 👉 **[ KLIK DI SINI UNTUK MEMBUKA WEBSITE LAPORAN KEUANGAN MASJID ](https://masjid-jamie-alistiqomah.github.io/Kas-Masjid/)** 👈
 
 </div>
 
