@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/masjid-jamie-alistiqomah/.github/blob/main/profile/banner.svg">
+<a href="[https://masjid-jamie-alistiqomah.github.io/Kas-Masjid/]">
   <img src="./banner.svg" alt="DKM Masjid Jamie Al-Istiqomah" width="100%" />
 </a>
 
