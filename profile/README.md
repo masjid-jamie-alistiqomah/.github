@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://masjid-jamie-alistiqomah.github.io/Kas-Masjid/">
-  <img width="1700" height="440" alt="BANNER" src="https://github.com/user-attachments/assets/7b2617d0-8687-48a6-98a0-a99c3d7eeb07" />
+<img width="2040" height="528" alt="banner masjid" src="https://github.com/user-attachments/assets/43f85df4-3112-4832-9909-0bf2a894bc41" />
 </a>
 
 ### 👉 **[ KLIK DI SINI UNTUK MEMBUKA WEBSITE LAPORAN KEUANGAN MASJID ](https://masjid-jamie-alistiqomah.github.io/Kas-Masjid/)** 👈
